@@ -1,4 +1,11 @@
-@import url(bpptstrap.css);
+@import url(bootstrap.css);
 
-body { 
-     background-image: url ('
+body {
+      background-color: DarkSalmon ;
+      background-image:url ('la.jpeg') ;
+
+}
+
+h1 {
+    color: DarkSeaGreen;
+}
