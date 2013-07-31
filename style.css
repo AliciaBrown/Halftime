@@ -1,11 +1,29 @@
 @import url(bootstrap.css);
 
 body {
-      background-color: DarkSalmon ;
-      background-image:url ('la.jpeg') ;
+      background-color: DarkSalmon;
+}
 
+.container {
+            background-color: DarkCyan;
+            padding 60px 40px 20px;
+}
+
+.navbar {
+         font-size: 20px;
+         color: DarkSeaGreen;
+         padding 30px 20px 12px;
+}
+
+.secondlayer {
+            background-color: Aquamarine;
+            padding 100px 60px 35px;
 }
 
 h1 {
-    color: DarkSeaGreen;
+    color: IndianRed;
+}
+
+img {
+     float: right;
 }
